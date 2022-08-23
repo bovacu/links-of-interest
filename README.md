@@ -7,5 +7,5 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 # C++
 - A site with many algorithm implementations and interesting articles: https://www.redblobgames.com/
 
-#SDL
+# SDL
 - Various SDL2 tutorials: https://www.parallelrealities.co.uk/
