@@ -11,3 +11,15 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 
 # SDL
 - Various SDL2 tutorials: https://www.parallelrealities.co.uk/
+- SDL wiki: https://wiki.libsdl.org/
+
+# Engines general
+- A bit of everything: https://thenumb.at/cpp-course/index.html
+- Fix your time step: https://gafferongames.com/post/fix_your_timestep/
+
+# OpenGL
+- Learn opengl: https://learnopengl.com/
+- Spritebatching example: https://github.com/IGME-RIT/Basic-OpenGL-with-GLFW-Sprite-Batching
+- Text: https://learnopengl.com/In-Practice/Text-Rendering
+- Text again: https://en.wikibooks.org/wiki/OpenGL_Programming/Modern_OpenGL_Tutorial_Text_Rendering_01
+- Particle system: http://www.opengl-tutorial.org/intermediate-tutorials/billboards-particles/particles-instancing/
