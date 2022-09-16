@@ -23,3 +23,8 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 - Text: https://learnopengl.com/In-Practice/Text-Rendering
 - Text again: https://en.wikibooks.org/wiki/OpenGL_Programming/Modern_OpenGL_Tutorial_Text_Rendering_01
 - Particle system: http://www.opengl-tutorial.org/intermediate-tutorials/billboards-particles/particles-instancing/
+
+# Physics Engines to learn
+- Box2d-Lite: https://github.com/erincatto/box2d-lite
+- Impulse: https://github.com/RandyGaul/ImpulseEngine/blob/master/Collision.h
+- CodeProject: https://www.codeproject.com/Articles/1029858/Making-a-D-Physics-Engine-The-Math
