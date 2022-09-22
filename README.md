@@ -26,6 +26,8 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 - Masking0: https://learnopengl.com/Advanced-OpenGL/Stencil-testing
 - Masking1: https://open.gl/?content=geometry
 - Compute Shaders: https://medium.com/@daniel.coady/compute-shaders-in-opengl-4-3-d1c741998c03
+- Compute Shaders: https://www.khronos.org/assets/uploads/developers/library/2014-siggraph-bof/KITE-BOF_Aug14.pdf
+- Compute Shaders: https://github.com/progschj/OpenGL-Examples/blob/master/13compute_shader_nbody.cpp
 
 # Physics Engines to learn
 - Box2d-Lite: https://github.com/erincatto/box2d-lite
