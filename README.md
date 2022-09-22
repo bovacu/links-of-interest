@@ -23,6 +23,9 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 - Text: https://learnopengl.com/In-Practice/Text-Rendering
 - Text again: https://en.wikibooks.org/wiki/OpenGL_Programming/Modern_OpenGL_Tutorial_Text_Rendering_01
 - Particle system: http://www.opengl-tutorial.org/intermediate-tutorials/billboards-particles/particles-instancing/
+- Masking0: https://learnopengl.com/Advanced-OpenGL/Stencil-testing
+- Masking1: https://open.gl/?content=geometry
+- Compute Shaders: https://medium.com/@daniel.coady/compute-shaders-in-opengl-4-3-d1c741998c03
 
 # Physics Engines to learn
 - Box2d-Lite: https://github.com/erincatto/box2d-lite
