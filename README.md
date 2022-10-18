@@ -25,6 +25,7 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 - A bit of everything: https://thenumb.at/cpp-course/index.html
 - Fix your time step: https://gafferongames.com/post/fix_your_timestep/
 - Various articles: https://www.haroldserrano.com/articles
+- UI custom system: https://github.com/NXPmicro/gtec-demo-framework/blob/master/Doc/FslSimpleUI.md
 
 # OpenGL
 - Learn opengl: https://learnopengl.com/
