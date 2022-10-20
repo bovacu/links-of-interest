@@ -49,10 +49,10 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 - Texture packer: https://www.codeandweb.com/texturepacker
 - Physics editor: https://www.codeandweb.com/physicseditor
 - Obsidian: https://obsidian.md/
-- Figma but free and better: penpot.app
+- Figma but free and better: https://penpot.app
 
 # Assets
-- Thousands of assets for 1$: quaternius.com
+- Thousands of assets for 1$: https://quaternius.com
 
 # Math
 - Voroni: https://www.alanzucconi.com/2015/02/24/to-voronoi-and-beyond/
