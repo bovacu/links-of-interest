@@ -1,6 +1,9 @@
 # links of interest
 Any links I find relevant so they are not lost anymore when swichting PCs or OS
 
+# Linux
+- Fix 'grub rescue': https://medium.com/@___jyotsana___/fix-grub-error-no-such-partition-entering-rescue-mode-grub-rescue-46cbd7d4d111
+
 # Architecture
 - A lot of systems and how to implement them: https://bytebytego.com/
 
