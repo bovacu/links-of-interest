@@ -9,6 +9,10 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 
 # Networking
 - An article with Client/Server reconciliation tecniques: https://gabrielgambetta.com/client-server-game-architecture.html
+- Enet: http://enet.bespin.org/index.html
+- SLikeNet: https://github.com/SLikeSoft/SLikeNet
+- Valve: https://github.com/ValveSoftware/GameNetworkingSockets
+- More: https://gafferongames.com/
 
 # C++
 - A site with many algorithm implementations and interesting articles: https://www.redblobgames.com/
