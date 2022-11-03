@@ -63,3 +63,11 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 
 # Math
 - Voroni: https://www.alanzucconi.com/2015/02/24/to-voronoi-and-beyond/
+
+# Emulation
+- GBA resources: https://www.reddit.com/r/EmuDev/comments/cfy60z/resources_to_build_a_gba_emulator/
+- GB emulator tutorial: https://www.youtube.com/watch?v=e87qKixKFME
+- NES emulator tutorial 0: https://www.youtube.com/watch?v=dtsKxmBKUJM
+- NES emulator tutorial 1: https://www.youtube.com/watch?v=Dq_cpyrYI70
+- NES emulator tutorial 2: https://www.youtube.com/watch?v=y71lli8MS8s
+- CPU emulator: https://www.youtube.com/watch?v=qJgsuQoy9bc&list=PLLwK93hM93Z13TRzPx9JqTIn33feefl37
