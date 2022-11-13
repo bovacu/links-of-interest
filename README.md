@@ -57,6 +57,7 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 - Physics editor: https://www.codeandweb.com/physicseditor
 - Obsidian: https://obsidian.md/
 - Figma but free and better: https://penpot.app
+- Tool for RPG planning: https://github.com/steffendx/GoNorth
 
 # Assets
 - Thousands of assets for 1$: https://quaternius.com
