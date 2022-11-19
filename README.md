@@ -59,6 +59,9 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 - Figma but free and better: https://penpot.app
 - Tool for RPG planning: https://github.com/steffendx/GoNorth
 
+#DB
+- Create own DB: https://cstack.github.io/db_tutorial/
+
 # Assets
 - Thousands of assets for 1$: https://quaternius.com
 
