@@ -59,6 +59,12 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 - Figma but free and better: https://penpot.app
 - Tool for RPG planning: https://github.com/steffendx/GoNorth
 
+# CLI Tools
+- Bat: https://github.com/sharkdp/bat
+- Automatic license creator: https://github.com/cezaraugusto/mklicense
+- DB (SQL) terminal manager: https://github.com/TaKO8Ki/gobang
+- Pretty code image generator: https://github.com/mixn/carbon-now-cli
+
 #DB
 - Create own DB: https://cstack.github.io/db_tutorial/
 
