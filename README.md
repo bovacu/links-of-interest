@@ -65,7 +65,12 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 - DB (SQL) terminal manager: https://github.com/TaKO8Ki/gobang
 - Pretty code image generator: https://github.com/mixn/carbon-now-cli
 
-#DB
+# IDE/Editors
+- Lapce: https://lapce.dev/
+- ST3: https://www.sublimetext.com/
+- Neovide: https://neovide.dev/
+
+# DB
 - Create own DB: https://cstack.github.io/db_tutorial/
 
 # Assets
