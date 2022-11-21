@@ -58,6 +58,15 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 - Obsidian: https://obsidian.md/
 - Figma but free and better: https://penpot.app
 - Tool for RPG planning: https://github.com/steffendx/GoNorth
+- Webview in all devices: https://www.lambdatest.com/lt-browser
+- Procedural animations of sprites: https://encelo.itch.io/spookyghost
+- In-Browser music maker: https://sfbgames.itch.io/chiptone
+- Pixelator: https://deakcor.itch.io/pixelover
+- Many pixel art tools: https://codemanu.itch.io/
+- Normal Map Light Generator 2D: https://azagaya.itch.io/laigter
+- Complex Pixel Art made easy: https://blastmode.itch.io/pixelbasher
+- Krita (Art): https://krita.org/es/
+- Aseprite: https://dacap.itch.io/aseprite
 
 # CLI Tools
 - Bat: https://github.com/sharkdp/bat
