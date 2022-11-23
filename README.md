@@ -67,6 +67,7 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 - Complex Pixel Art made easy: https://blastmode.itch.io/pixelbasher
 - Krita (Art): https://krita.org/es/
 - Aseprite: https://dacap.itch.io/aseprite
+- Docs site generator: https://docusaurus.io/
 
 # CLI Tools
 - Bat: https://github.com/sharkdp/bat
