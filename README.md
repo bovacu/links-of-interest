@@ -27,6 +27,7 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 - SDL wiki: https://wiki.libsdl.org/
 - Nintendo Switch: https://github.com/carstene1ns/switch-sdl2-demo
 - Lighting: https://slembcke.github.io/
+- WASM: https://github.com/shlomnissan/sdl-wasm , https://emscripten.org/docs/getting_started/downloads.html , https://www.jamesfmackenzie.com/2019/12/01/webassembly-graphics-with-sdl/
 
 # Engines general
 - A bit of everything: https://thenumb.at/cpp-course/index.html
