@@ -15,6 +15,7 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 - More: https://gafferongames.com/
 
 # C++
+- Site with C++ basics and theory: https://www.studyplan.dev/
 - A site with many algorithm implementations and interesting articles: https://www.redblobgames.com/
 - Terrain generation with Wave Collision Function: https://www.youtube.com/watch?v=TO0Tx3w5abQ
 - Wave function collapse: https://github.com/mxgmn/WaveFunctionCollapse
