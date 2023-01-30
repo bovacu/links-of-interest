@@ -48,6 +48,7 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 - Compute Shaders: https://medium.com/@daniel.coady/compute-shaders-in-opengl-4-3-d1c741998c03
 - Compute Shaders: https://www.khronos.org/assets/uploads/developers/library/2014-siggraph-bof/KITE-BOF_Aug14.pdf
 - Compute Shaders: https://github.com/progschj/OpenGL-Examples/blob/master/13compute_shader_nbody.cpp
+- Text MSDF: https://medium.com/@calebfaith/implementing-msdf-font-in-opengl-ea09a9ab7e00
 
 # Physics Engines to learn
 - Box2d-Lite: https://github.com/erincatto/box2d-lite
