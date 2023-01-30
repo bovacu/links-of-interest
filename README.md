@@ -81,6 +81,7 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 - Lapce: https://lapce.dev/
 - ST3: https://www.sublimetext.com/
 - Neovide: https://neovide.dev/
+- 10x: https://10xeditor.com/
 
 # DB
 - Create own DB: https://cstack.github.io/db_tutorial/
