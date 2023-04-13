@@ -103,3 +103,6 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 - NES emulator tutorial 1: https://www.youtube.com/watch?v=Dq_cpyrYI70
 - NES emulator tutorial 2: https://www.youtube.com/watch?v=y71lli8MS8s
 - CPU emulator: https://www.youtube.com/watch?v=qJgsuQoy9bc&list=PLLwK93hM93Z13TRzPx9JqTIn33feefl37
+
+# Privacy Policy Generator
+- https://app-privacy-policy-generator.firebaseapp.com/
