@@ -53,6 +53,7 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 - Compute Shaders: https://github.com/progschj/OpenGL-Examples/blob/master/13compute_shader_nbody.cpp
 - Text MSDF: https://medium.com/@calebfaith/implementing-msdf-font-in-opengl-ea09a9ab7e00
 - Framebuffer article: http://www.songho.ca/opengl/gl_fbo.html
+- 1M quads: https://bitnenfer.com/blog/2016/04/28/ldEngine-Part-1.html
 
 # Physics Engines to learn
 - Box2d-Lite: https://github.com/erincatto/box2d-lite
