@@ -111,3 +111,6 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 
 # Steam deck
 - https://www.reddit.com/r/SteamDeck/comments/zwzhfp/struggling_to_download_yay_in_desktop_mode/
+
+# Programming languages list page
+- https://github.com/ChessMax/awesome-programming-languages
