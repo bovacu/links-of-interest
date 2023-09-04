@@ -114,3 +114,8 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 
 # Programming languages list page
 - https://github.com/ChessMax/awesome-programming-languages
+
+# Atlas packing theory and algorithms
+- (most complete) https://www.david-colson.com/2020/03/10/exploring-rect-packing.html
+- (way simpler, just squares) https://lisyarus.github.io/blog/graphics/2022/08/06/texture-packing.html
+- (Theory paper) http://pds25.egloos.com/pds/201504/21/98/RectangleBinPack.pdf
