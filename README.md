@@ -97,6 +97,7 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 
 # Math
 - Voroni: https://www.alanzucconi.com/2015/02/24/to-voronoi-and-beyond/
+- Math Book Editor: https://www.mathcha.io/
 
 # Emulation
 - GBA resources: https://www.reddit.com/r/EmuDev/comments/cfy60z/resources_to_build_a_gba_emulator/
