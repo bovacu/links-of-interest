@@ -55,6 +55,7 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 - Framebuffer article: http://www.songho.ca/opengl/gl_fbo.html
 - 1M quads: https://bitnenfer.com/blog/2016/04/28/ldEngine-Part-1.html
 - Classic 3D models for testing: https://casual-effects.com/data/
+- Occlusion Culling: https://github.com/nvpro-samples/gl_occlusion_culling
 
 # Physics Engines to learn
 - Box2d-Lite: https://github.com/erincatto/box2d-lite
