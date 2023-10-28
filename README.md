@@ -57,6 +57,9 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 - Classic 3D models for testing: https://casual-effects.com/data/
 - Occlusion Culling: https://github.com/nvpro-samples/gl_occlusion_culling
 
+# 3D Model formats
+- OBJ specification: https://paulbourke.net/dataformats/obj/
+
 # Physics Engines to learn
 - Box2d-Lite: https://github.com/erincatto/box2d-lite
 - Impulse: https://github.com/RandyGaul/ImpulseEngine/blob/master/Collision.h
