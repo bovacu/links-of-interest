@@ -100,6 +100,7 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 - Aseprite: https://dacap.itch.io/aseprite
 - Docs site generator: https://docusaurus.io/
 - Whiteboard Online: https://excalidraw.com/
+- Super memory profiler: https://github.com/RudjiGames/MTuner -> Docs: https://rudjigames.github.io/MTuner/
 
 # Rogue-like resources
 - https://roguebasin.com/index.php/Main_Page
