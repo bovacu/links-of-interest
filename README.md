@@ -10,12 +10,20 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 # Architecture
 - A lot of systems and how to implement them: https://bytebytego.com/
 
+# A bit of everything
+- https://jdelezenne.github.io/Codex/
+- https://build-your-own.org/
+- https://johnnysswlab.com/
+
 # Networking
 - An article with Client/Server reconciliation tecniques: https://gabrielgambetta.com/client-server-game-architecture.html
 - Enet: http://enet.bespin.org/index.html
 - SLikeNet: https://github.com/SLikeSoft/SLikeNet
 - Valve: https://github.com/ValveSoftware/GameNetworkingSockets
 - More: https://gafferongames.com/
+
+# Memory Allocation
+- https://www.gingerbill.org/series/memory-allocation-strategies/
 
 # C++
 - Site with C++ basics and theory: https://www.studyplan.dev/
@@ -25,6 +33,7 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 - Terrain generation via Cellular Automata: https://bronsonzgeb.com/index.php/2022/01/30/procedural-generation-with-cellular-automata/
 - Custom iterator class: https://www.internalpointers.com/post/writing-custom-iterators-modern-cpp
 - Coroutines: https://github.com/RandyGaul/cute_framework/tree/master/docs/coroutine
+- Struct Packing: http://www.catb.org/esr/structure-packing/
 
 # SDL
 - Various SDL2 tutorials: https://www.parallelrealities.co.uk/
@@ -32,6 +41,11 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 - Nintendo Switch: https://github.com/carstene1ns/switch-sdl2-demo
 - Lighting: https://slembcke.github.io/
 - WASM: https://github.com/shlomnissan/sdl-wasm, https://stackoverflow.com/questions/61590519/how-to-use-emscripten-ports-sdl2-and-freetype-with-cmake 
+
+# Mobile
+- Android Safe Area: https://developer.android.com/jetpack/compose/system/cutouts
+- iOS Safe Area 1: https://developer.apple.com/design/human-interface-guidelines/layout
+- iOS Safe Area 2: https://developer.apple.com/documentation/uikit/uiview/positioning_content_relative_to_the_safe_area
 
 # Engines general
 - A bit of everything: https://thenumb.at/cpp-course/index.html
@@ -56,6 +70,10 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 - 1M quads: https://bitnenfer.com/blog/2016/04/28/ldEngine-Part-1.html
 - Classic 3D models for testing: https://casual-effects.com/data/
 - Occlusion Culling: https://github.com/nvpro-samples/gl_occlusion_culling
+- Animation: https://github.com/MathNuts/SkeletalAnimation
+
+# DirectX
+- https://www.3dgep.com/category/graphics-programming/directx/
 
 # 3D Model formats
 - OBJ specification: https://paulbourke.net/dataformats/obj/
@@ -82,6 +100,9 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 - Aseprite: https://dacap.itch.io/aseprite
 - Docs site generator: https://docusaurus.io/
 - Whiteboard Online: https://excalidraw.com/
+
+# Rogue-like resources
+- https://roguebasin.com/index.php/Main_Page
 
 # CLI Tools
 - Bat: https://github.com/sharkdp/bat
@@ -121,6 +142,12 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 
 # Programming languages list page
 - https://github.com/ChessMax/awesome-programming-languages
+- Zig: https://ziglang.org/
+- Odin: https://odin-lang.org/
+- Vale: https://vale.dev/
+
+# Unreal Engine
+- https://www.tomlooman.com/unreal-engine-cpp-guide/
 
 # Atlas packing theory and algorithms
 - (most complete) https://www.david-colson.com/2020/03/10/exploring-rect-packing.html
