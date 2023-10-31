@@ -150,6 +150,9 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 # Unreal Engine
 - https://www.tomlooman.com/unreal-engine-cpp-guide/
 
+# Services
+- This seems to be like firebase but cheaper: https://railway.app/
+
 # Atlas packing theory and algorithms
 - (most complete) https://www.david-colson.com/2020/03/10/exploring-rect-packing.html
 - (way simpler, just squares) https://lisyarus.github.io/blog/graphics/2022/08/06/texture-packing.html
