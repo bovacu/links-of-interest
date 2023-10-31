@@ -81,6 +81,7 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 - Krita (Art): https://krita.org/es/
 - Aseprite: https://dacap.itch.io/aseprite
 - Docs site generator: https://docusaurus.io/
+- Whiteboard Online: https://excalidraw.com/
 
 # CLI Tools
 - Bat: https://github.com/sharkdp/bat
