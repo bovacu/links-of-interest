@@ -35,6 +35,7 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 - Custom iterator class: https://www.internalpointers.com/post/writing-custom-iterators-modern-cpp
 - Coroutines: https://github.com/RandyGaul/cute_framework/tree/master/docs/coroutine
 - Struct Packing: http://www.catb.org/esr/structure-packing/
+- NCurses, terminal manipulation lib: https://terminalroot.com.br/ncurses/
 
 # SDL
 - Various SDL2 tutorials: https://www.parallelrealities.co.uk/
