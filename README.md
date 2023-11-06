@@ -21,6 +21,7 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 - SLikeNet: https://github.com/SLikeSoft/SLikeNet
 - Valve: https://github.com/ValveSoftware/GameNetworkingSockets
 - More: https://gafferongames.com/
+- https://beej.us/guide/bgnet/html/
 
 # Memory Allocation
 - https://www.gingerbill.org/series/memory-allocation-strategies/
