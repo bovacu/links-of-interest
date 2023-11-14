@@ -79,6 +79,7 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 
 # Metal
 - Metal-cpp: https://developer.apple.com/metal/cpp/
+- Gihub: https://github.com/bkaradzic/metal-cpp
 
 # 3D Model formats
 - OBJ specification: https://paulbourke.net/dataformats/obj/
