@@ -108,6 +108,7 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 - Docs site generator: https://docusaurus.io/
 - Whiteboard Online: https://excalidraw.com/
 - Super memory profiler: https://github.com/RudjiGames/MTuner -> Docs: https://rudjigames.github.io/MTuner/
+- CMake Lists creator: https://github.com/friendlyanon/cmake-init
 
 # Rogue-like resources
 - https://roguebasin.com/index.php/Main_Page
