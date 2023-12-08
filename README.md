@@ -57,6 +57,7 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 
 # OpenGL
 - Learn opengl: https://learnopengl.com/
+- https://ogldev.org/
 - Spritebatching example: https://github.com/IGME-RIT/Basic-OpenGL-with-GLFW-Sprite-Batching
 - Text: https://learnopengl.com/In-Practice/Text-Rendering
 - Text again: https://en.wikibooks.org/wiki/OpenGL_Programming/Modern_OpenGL_Tutorial_Text_Rendering_01
