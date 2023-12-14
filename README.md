@@ -10,6 +10,9 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 # Architecture
 - A lot of systems and how to implement them: https://bytebytego.com/
 
+# Level Design
+- https://book.leveldesignbook.com/
+
 # A bit of everything
 - https://jdelezenne.github.io/Codex/
 - https://build-your-own.org/
