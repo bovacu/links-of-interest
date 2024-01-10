@@ -77,6 +77,7 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 - Classic 3D models for testing: https://casual-effects.com/data/
 - Occlusion Culling: https://github.com/nvpro-samples/gl_occlusion_culling
 - Animation: https://github.com/MathNuts/SkeletalAnimation
+- GLTF Test models: https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0
 
 # DirectX
 - https://www.3dgep.com/category/graphics-programming/directx/
