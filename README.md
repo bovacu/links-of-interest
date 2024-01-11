@@ -129,6 +129,7 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 - ST3: https://www.sublimetext.com/
 - Neovide: https://neovide.dev/
 - 10x: https://10xeditor.com/
+- Kate: https://kate-editor.org/
 
 # DB
 - Create own DB: https://cstack.github.io/db_tutorial/
