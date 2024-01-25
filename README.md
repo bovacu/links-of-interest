@@ -25,6 +25,7 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 - Valve: https://github.com/ValveSoftware/GameNetworkingSockets
 - More: https://gafferongames.com/
 - https://beej.us/guide/bgnet/html/
+- A lot of network resources and references: https://github.com/ThusSpokeNomad/GameNetworkingResources
 
 # Memory Allocation
 - https://www.gingerbill.org/series/memory-allocation-strategies/
