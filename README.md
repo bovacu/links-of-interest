@@ -52,6 +52,7 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 - Android Safe Area: https://developer.android.com/jetpack/compose/system/cutouts
 - iOS Safe Area 1: https://developer.apple.com/design/human-interface-guidelines/layout
 - iOS Safe Area 2: https://developer.apple.com/documentation/uikit/uiview/positioning_content_relative_to_the_safe_area
+- Hardware tiled based rendering: https://developer.samsung.com/galaxy-gamedev/resources/articles/gpu-framebuffer.html
 
 # Engines general
 - A bit of everything: https://thenumb.at/cpp-course/index.html
