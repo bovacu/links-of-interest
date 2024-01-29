@@ -82,6 +82,7 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 - 1M quads: https://bitnenfer.com/blog/2016/04/28/ldEngine-Part-1.html
 - Classic 3D models for testing: https://casual-effects.com/data/
 - Occlusion Culling: https://github.com/nvpro-samples/gl_occlusion_culling
+- Frustrum Culling: https://cgvr.cs.uni-bremen.de/teaching/cg_literatur/lighthouse3d_view_frustum_culling/index.html
 - Animation: https://github.com/MathNuts/SkeletalAnimation
 - GLTF Test models: https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0
 
