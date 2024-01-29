@@ -170,6 +170,8 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 
 # Unreal Engine
 - https://www.tomlooman.com/unreal-engine-cpp-guide/
+- https://unrealartoptimization.github.io/book/
+- https://zuru.tech/blog/real-time-rendering-and-unreal-engine-4#rendering-flow
 
 # Services
 - This seems to be like firebase but cheaper: https://railway.app/
