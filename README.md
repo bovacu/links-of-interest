@@ -41,6 +41,11 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 - Struct Packing: http://www.catb.org/esr/structure-packing/
 - NCurses, terminal manipulation lib: https://terminalroot.com.br/ncurses/
 
+# C
+- Single file libs: https://github.com/nothings/single_file_libs
+- Gamedev utility lib: https://github.com/septag/sx
+- PDF creator: https://github.com/AndreRenaud/PDFGen
+
 # SDL
 - Various SDL2 tutorials: https://www.parallelrealities.co.uk/
 - SDL wiki: https://wiki.libsdl.org/
