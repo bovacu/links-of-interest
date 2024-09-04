@@ -40,6 +40,7 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 - Coroutines: https://github.com/RandyGaul/cute_framework/tree/master/docs/coroutine
 - Struct Packing: http://www.catb.org/esr/structure-packing/
 - NCurses, terminal manipulation lib: https://terminalroot.com.br/ncurses/
+- Destructors and Placement New: https://isocpp.org/wiki/faq/dtors
 
 # C
 - Single file libs: https://github.com/nothings/single_file_libs
