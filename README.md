@@ -142,6 +142,7 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 - Neovide: https://neovide.dev/
 - 10x: https://10xeditor.com/
 - Kate: https://kate-editor.org/
+- Zed: https://zed.dev/
 
 # DB
 - Create own DB: https://cstack.github.io/db_tutorial/
