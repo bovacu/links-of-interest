@@ -46,6 +46,7 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 - Single file libs: https://github.com/nothings/single_file_libs
 - Gamedev utility lib: https://github.com/septag/sx
 - PDF creator: https://github.com/AndreRenaud/PDFGen
+- Final Platform Layer: https://libfpl.org/
 
 # SDL
 - Various SDL2 tutorials: https://www.parallelrealities.co.uk/
@@ -70,7 +71,7 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 - Various articles: https://www.haroldserrano.com/articles
 - UI custom system: https://github.com/NXPmicro/gtec-demo-framework/blob/master/Doc/FslSimpleUI.md
 
-# OpenGL
+# OpenGL - Graphics in general
 - Learn opengl: https://learnopengl.com/
 - https://ogldev.org/
 - Spritebatching example: https://github.com/IGME-RIT/Basic-OpenGL-with-GLFW-Sprite-Batching
@@ -174,6 +175,8 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 - Zig: https://ziglang.org/
 - Odin: https://odin-lang.org/
 - Vale: https://vale.dev/
+- Cyber: https://cyberscript.dev/
+- C3: https://c3-lang.org/
 
 # Unreal Engine
 - https://www.tomlooman.com/unreal-engine-cpp-guide/
