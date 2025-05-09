@@ -53,7 +53,11 @@ Any links I find relevant so they are not lost anymore when swichting PCs or OS
 - SDL wiki: https://wiki.libsdl.org/
 - Nintendo Switch: https://github.com/carstene1ns/switch-sdl2-demo
 - Lighting: https://slembcke.github.io/
-- WASM: https://github.com/shlomnissan/sdl-wasm, https://stackoverflow.com/questions/61590519/how-to-use-emscripten-ports-sdl2-and-freetype-with-cmake 
+- WASM: https://github.com/shlomnissan/sdl-wasm, https://stackoverflow.com/questions/61590519/how-to-use-emscripten-ports-sdl2-and-freetype-with-cmake
+- SDL_GPU:
+  - https://moonside.games/posts/sdl-gpu-sprite-batcher/
+  - https://www.youtube.com/playlist?list=PLI3kBEQ3yd-CbQfRchF70BPLF9G1HEzhy
+  - https://wiki.libsdl.org/SDL3/Tutorials/FrontPage
 
 # Mobile
 - Android Safe Area: https://developer.android.com/jetpack/compose/system/cutouts
